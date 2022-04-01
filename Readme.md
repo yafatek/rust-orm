@@ -2,7 +2,7 @@
 
 > inspired by Spring boot JPA
 
-the system is built to give developer the power to focus on their applications logic rather than <br/>
+the system is built to give developer the power to focus on their application's logic rather than <br/>
 focusing on building SQL Queries..
 
 ### todo
